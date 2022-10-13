@@ -30,7 +30,6 @@
     "dns_prefetch": [
         "\/\/connect.facebook.net",
         "\/\/www.googletagmanager.com",
-        "\/\/cdn.teknobgt.com",
         "\/\/propeller-tracking.com",
         "\/\/fonts.gstatic.com",
         "\/\/www.gstatic.com",
